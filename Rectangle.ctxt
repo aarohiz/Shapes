@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\r\n\ Rectangle,\ which\ extends\ Shape\r\n\r\n\ @author\ (A)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ length\ width
+comment1.target=Rectangle(java.lang.String,\ double,\ double)
+comment2.params=
+comment2.target=void\ calcPerimeter()
+comment3.params=
+comment3.target=void\ calcArea()
+numComments=4
